@@ -10,7 +10,7 @@
     </author>
     <category citation-format="numeric"/>
     <category field="generic-base"/>
-    <updated>2024-10-08T12:00:00+00:00</updated>
+    <updated>2024-10-09T12:00:00+00:00</updated>
     <summary>
       Belarusian GOST-2017 style for VAK — “new” rules applied 2024-10-01.
       Стиль для оформления списка литературы согласно требованиям белорусской ВАК — „новые“ правила, которые работают с 01.10.2024: c момента, когда вышел приказ ВАК №230 от 01.10.2024.
@@ -233,7 +233,7 @@
   </macro>
 
   <macro name="publisher">
-    <group prefix=" " delimiter=": " suffix=", ">
+    <group prefix=" " delimiter=" : " suffix=", ">
       <text variable="publisher-place"/>
       <text variable="publisher"/>
     </group>
